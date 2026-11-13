@@ -17,3 +17,18 @@ Daily info cards (1200×1500 PNG) and two 7-page carousels (PDF, 1080×1350 per 
 Raw URLs follow:
 
 `https://raw.githubusercontent.com/bellapistola3/pdfdavinci-assets/main/linkedin/2026-11/<file>`
+
+## Brand visuals, November 2026
+
+Owner-provided neon-style graphics extracted from the Massive Traffic Growth Playbook (17 JPEGs). Catalog, including public-use flags and unverified-claim notes, is in `brand/2026-11/catalog.md`.
+
+| File | Use |
+|---|---|
+| `brand/2026-11/owner-01.jpg` … `owner-17.jpg` | Source brand visuals |
+| `brand/2026-11/catalog.md` | Per-image raw URL, size, topic, alt text, public-use flag |
+
+Raw URLs follow:
+
+`https://raw.githubusercontent.com/bellapistola3/pdfdavinci-assets/main/brand/2026-11/<file>`
+
+Do not use images flagged `public use: no` or `hold` in the catalog as public post attachments.
